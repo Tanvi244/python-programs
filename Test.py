@@ -1,6 +1,8 @@
-    print("Demp python program")
+
+print("Demo python Program.")
 
 No = 11
+
 print(No)
 print(type(No))
 print(id(No))
@@ -8,9 +10,8 @@ print(id(No))
 X = 21
 print(id(X))
 
-
-y = 11
-print(id(y))
+Y = 11
+print(id(Y))
 
 Z = "11"
 print(type(Z))

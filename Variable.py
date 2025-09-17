@@ -1,10 +1,12 @@
+# int No = 11;
 No = 11
 
-print("value of No is",No)
+#printf("Value of No is %d\n",No);
+print("Value of No is ",No)
 
 print(type(No))
 
-X = "marvellous"
+X = "Marvellous"
 print(X)
 print(type(X))
 
